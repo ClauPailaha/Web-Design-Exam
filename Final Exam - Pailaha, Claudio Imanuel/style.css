@@ -51,6 +51,8 @@ header h1{
     padding: 10px;
     position: relative;
     border-radius: 1ex;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 .nav_1 li {
     list-style-type: none;
